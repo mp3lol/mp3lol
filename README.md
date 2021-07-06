@@ -1,3 +1,3 @@
 - Hello, I am **mp3**
-- You probably know me for https://cripwalk.in.
+- Your mother.
 - I code in batch for 2 main reasons; It's interesting, and it's unique.
