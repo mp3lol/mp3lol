@@ -1,2 +1,2 @@
 - Hello, I am **mp3**
-- I code in batch for 2 main reasons; It's **interesting**, and it's **unique**.
+- I code in batch for 2 main reasons; It's **interesting**, and it's **unique** in the way that not many people use it to code.
